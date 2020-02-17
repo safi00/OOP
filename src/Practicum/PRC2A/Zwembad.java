@@ -1,4 +1,4 @@
-package Practicum.PRC2A;
+package src.Practicum.PRC2A;
 
 public class Zwembad {
     private Double breedte;
