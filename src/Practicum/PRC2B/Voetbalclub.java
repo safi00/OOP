@@ -1,4 +1,4 @@
-package Practicum.PRC2B;
+package Practicum3B.src.Practicum.PRC2B;
 
 public class Voetbalclub {
     private String naam;
